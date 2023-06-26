@@ -34,5 +34,5 @@ This collection of graphs was created at the Department of Computer Science and 
 If you use this software tool for your research, please cite the following work:
 
 ```
-E. Krupalija, E. Cogo, Š. Bećirović, I. Prazina, D. Pozderac, and I. Bešić, "CEGSet: Collection of standardized cause-effect graph specifications," 12th Mediterranean Conference on Embedded Computing, 6-10 June 2023, Budva, Montenegro, pp. 1-4, DOI: TBA.
+E. Krupalija, E. Cogo, Š. Bećirović, I. Prazina, D. Pozderac, and I. Bešić, "CEGSet: Collection of standardized cause-effect graph specifications," 12th Mediterranean Conference on Embedded Computing, 6-10 June 2023, Budva, Montenegro, pp. 1-4, doi: 10.1109/MECO58584.2023.10155063.
 ```
