@@ -42,5 +42,5 @@ Machine learning methods were applied on the dataset in order to be able to pred
 If you use the work on feasibility prediction for your research, please cite the following work:
 
 ```
-E. Krupalija, E. Cogo, D. Pozderac, A. Ali Al Zayat, and I. Bešić, "Usage of Machine Learning Methods for Cause-Effect Graph Feasibility Prediction," accepted for publication in The 5th International Conference on Machine Learning and Intelligent Systems (MLIS 2023), Macao, China.
+E. Krupalija, E. Cogo, D. Pozderac, A. Ali Al Zayat, and I. Bešić, "Usage of Machine Learning Methods for Cause-Effect Graph Feasibility Prediction," The 5th International Conference on Machine Learning and Intelligent Systems (MLIS 2023), Macao, China, pp. 126-131, doi: 10.3233/FAIA230774.
 ```
